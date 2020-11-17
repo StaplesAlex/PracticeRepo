@@ -1,0 +1,32 @@
+Different Mechanics:
+
+Player:
+Movement - Walking, Sprinting, Crouching, Jumping
+Inventory - Hold Items, Pickup/Drop Items, Craft Different Items, Equip Different Items, Holds Money
+
+Items:
+Different items have different stats
+Player has slots for Armour/Clothing and Weapons
+Some items have different rarity - common, uncommon, rare, epic, legendary
+can buy items at a shop
+
+Choice based story
+
+
+Missions:
+Different missions depending on choices. Missions give rewards - money or gear
+Missions will usually involve hunting/fighting a monster 
+
+Combat:
+Melee/Ranged combat
+Player has to dodge attacks from the monsters and then attack them with their weapons
+
+Controls:
+WASD/Thumbstick - Movement
+Left Mouse Button/Right Trigger - Attack
+Right Mouse Button/Left Trigger - Block
+E/Square button/X button - Interact/Pickup
+Space Bar/X button/A button - Jump
+Left Shift/Left Stick Button - Sprint
+Left Control/Right Stick Button - Crouch 
+F/Circle Button/B button - Dodge
