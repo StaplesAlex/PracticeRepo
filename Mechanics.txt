@@ -3,15 +3,15 @@ Different Mechanics:
 Player:
 Movement - Walking, Sprinting, Crouching, Jumping
 Inventory - Hold Items, Pickup/Drop Items, Craft Different Items, Equip Different Items, Holds Money
+#Class - Wizard, Warrior, Thief, Archer, Barbarian, Bard
 
 Items:
 Different items have different stats
 Player has slots for Armour/Clothing and Weapons
 Some items have different rarity - common, uncommon, rare, epic, legendary
-can buy items at a shop
+#Can buy items at a shop with money or for a trade
 
 Choice based story
-
 
 Missions:
 Different missions depending on choices. Missions give rewards - money or gear
@@ -20,6 +20,8 @@ Missions will usually involve hunting/fighting a monster
 Combat:
 Melee/Ranged combat
 Player has to dodge attacks from the monsters and then attack them with their weapons
+#Dodge uses up stamina
+#Magic uses up mana
 
 Controls:
 WASD/Thumbstick - Movement
